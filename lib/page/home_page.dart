@@ -135,7 +135,7 @@ class _HomePageState extends State<HomePage> {
                       contentPadding: EdgeInsets.symmetric(horizontal: 10.0)),
                   readOnly:
                       true, //readOnly: true là dùng để chỉ đọc ko  dùng để nhập
-                )
+                ),
               ],
             ),
           ),
